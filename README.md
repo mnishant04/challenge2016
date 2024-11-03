@@ -78,3 +78,14 @@ This Go project provides a system to manage distributors, including adding sub-d
 
 - Go standard library (`net/http`, `strings`, `encoding/json`, etc.)
 - CSV file (`cities.csv`) for initializing location data.
+
+## Steps To Run
+
+- Step 1
+    Initialize the go modules (run `go mod init` command)
+- Step 2
+    Build the project (run `go build` command)
+- Step 3
+     Run `go run .`
+
+Voila The program is running on 8080 port.
